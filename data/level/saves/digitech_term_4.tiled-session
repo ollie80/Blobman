@@ -1,0 +1,193 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "C:/Users/hover/Documents/GitHub/StemTerm4/level/save/0.tmx",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "0.tmx": {
+            "scale": 2,
+            "selectedLayer": 8,
+            "viewCenter": {
+                "x": 427.75,
+                "y": 213.75
+            }
+        },
+        "1.tmx": {
+            "scale": 0.33,
+            "selectedLayer": 8,
+            "viewCenter": {
+                "x": 116.66666666666652,
+                "y": 501.5151515151514
+            }
+        },
+        "2.tmx": {
+            "scale": 1,
+            "selectedLayer": 7,
+            "viewCenter": {
+                "x": 424.5,
+                "y": 361.5
+            }
+        },
+        "3.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 9,
+            "viewCenter": {
+                "x": 364.66666666666663,
+                "y": 588.6666666666667
+            }
+        },
+        "4.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 7,
+            "viewCenter": {
+                "x": 268.66666666666663,
+                "y": 576.6666666666667
+            }
+        },
+        "5.tmx": {
+            "scale": 0.5422916666666666,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 480.36880522474064,
+                "y": 760.6607760276604
+            }
+        },
+        "6.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 477.66666666666663,
+                "y": 430.33333333333337
+            }
+        },
+        "7.tmx": {
+            "scale": 1,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 632.5,
+                "y": 212.5
+            }
+        },
+        "8.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 719.6666666666667,
+                "y": 539.6666666666666
+            }
+        },
+        "C:/Users/hover/Documents/0x72_DungeonTilesetII_v1.3.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/hover/Documents/GitHub/DigiTechProjectTerm4/level/New folder/Enemies.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "C:/Users/hover/Documents/GitHub/DigiTechProjectTerm4/level/New folder/Merchant.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "C:/Users/hover/Documents/GitHub/DigiTechProjectTerm4/level/New folder/Shadow.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/hover/Documents/GitHub/DigiTechProjectTerm4/level/New folder/Terrain.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 0.9599
+        },
+        "C:/Users/hover/Documents/GitHub/DigiTechProjectTerm4/level/New folder/Trees And Bushes.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/hover/Documents/GitHub/DigiTechProjectTerm4/level/New folder/Wall.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/hover/Documents/GitHub/DigiTechProjectTerm4/level/tileset/Terrain.tsx": {
+            "dynamicWrapping": false
+        },
+        "C:/Users/hover/Documents/GitHub/Shadows-Unleashed/level/saves/Chest.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "C:/Users/hover/Documents/GitHub/Shadows-Unleashed/level/tilesets/Doors.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/hover/Documents/GitHub/StemTerm4/level/save/0.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 641,
+                "y": 619
+            }
+        },
+        "C:/Users/hover/Documents/GitHub/StemTerm4/level/tilesets/map.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "C:/Users/hover/Documents/GitHub/StemTerm4/rogalik/maps/basic..tmx": {
+            "scale": 3.2537499999999997,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 120.01536688436421,
+                "y": 199.923165578179
+            }
+        },
+        "base_room.tmx": {
+            "scale": 1,
+            "selectedLayer": 8,
+            "viewCenter": {
+                "x": 487.5,
+                "y": 462.5
+            }
+        },
+        "untitled.tmx": {
+            "scale": 3,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 224.83333333333337,
+                "y": -295.5
+            }
+        }
+    },
+    "last.exportedFilePath": "C:/Users/hover/Documents/GitHub/StemTerm4/level/0",
+    "last.imagePath": "C:/Users/hover/Documents/GitHub/StemTerm4/graphics/map/wall",
+    "map.fixedSize": false,
+    "map.height": 100,
+    "map.lastUsedExportFilter": "CSV files (*.csv)",
+    "map.lastUsedFormat": "tmx",
+    "map.orientation": null,
+    "map.tileHeight": 64,
+    "map.tileWidth": 64,
+    "map.width": 100,
+    "openFiles": [
+        "C:/Users/hover/Documents/GitHub/StemTerm4/level/save/0.tmx",
+        "C:/Users/hover/Documents/GitHub/StemTerm4/level/tilesets/map.tsx"
+    ],
+    "project": "digitech_term_4.tiled-project",
+    "recentFiles": [
+        "C:/Users/hover/Documents/GitHub/StemTerm4/level/tilesets/map.tsx",
+        "C:/Users/hover/Documents/GitHub/StemTerm4/level/save/0.tmx",
+        "8.tmx",
+        "C:/Users/hover/Documents/GitHub/DigiTechProjectTerm4/level/New folder/Trees And Bushes.tsx",
+        "base_room.tmx",
+        "0.tmx",
+        "1.tmx",
+        "2.tmx",
+        "3.tmx",
+        "4.tmx",
+        "untitled.tmx",
+        "C:/Users/hover/Documents/GitHub/DigiTechProjectTerm4/level/New folder/Terrain.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.type": 1
+}

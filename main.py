@@ -107,7 +107,7 @@ class Main:
                 sys.exit()
 
     def save(self):
-        with open('../save/save_data.txt', 'w') as save_data:
+        with open('data/save/save_data.txt', 'w') as save_data:
             json.dump(self.data, save_data)
 
     def reset(self):

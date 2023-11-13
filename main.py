@@ -71,7 +71,7 @@ class Main:
 
     def new_room(self):
         if self.changing_room and self.can_change_room:
-            rand = random.choices(population=[1,2,3,4, 5, 6, 7, 8] , weights=(1, 1, 0.6, 0.8, 0, 0.2, 100, 0.6), k=1)[0]
+            rand = random.choices(population=[1,2,3,4, 5, 6, 7, 8] , weights=(1, 1, 0.6, 0.8, 0, 0.2, 0.2, 0.6), k=1)[0]
             while rand == self.current_room:
                 rand = random.choices(population=[1, 2, 3, 4, 5, 6,7, 8], weights=(1, 1, 0.6, 0.8, 0, 0.2, 0.2, 0.6), k=1)[0]
             if rand == 1:
